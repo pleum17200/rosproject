@@ -1,0 +1,8 @@
+prefix=/home/pleummy/Desktop/pai/install
+
+Name: your_new_package
+Description: Description of your_new_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
